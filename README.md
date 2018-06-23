@@ -25,7 +25,7 @@ It is organised as follows:
 ### Part 4: *Solution*
 - [x] Components used
 - [x] Features implemented
-- [x] Algorithm detailed explanation
+- [x] Algorithm explanation
 - [x] Tests realised
 - [x] Difficulties encountered/ how they were overcome
 
