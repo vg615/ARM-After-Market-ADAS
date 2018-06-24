@@ -17,12 +17,10 @@ It is organised as follows:
 ### Part 1: *What does the project consist of?*
 - [x] Overall presentation (team leader,...)
 - [x] Motivations: security and commercial potential
+- [x] What is drowsiness and how can it be detected?
 - [x] Milestones
 
-### Part 2: *What is drowsiness and how can it be detected?*
-- [x] Research to better tackle the problem and broaden our list of possible solutions
-
-### Part 3: *Concept selection*
+### Part 2: *Concept selection*
 - [x] Competitor analysis
 - [x] Determining which measures to monitor
 - [x] Choosing the most optimal and secured way of warning the user
@@ -30,16 +28,16 @@ It is organised as follows:
 - [x] Taking car security norms into account: ISO26262
 - [x] Splitting the tasks
 
-### Part 4: *Solution*
+### Part 3: *Solution*
 - [x] Components used
 - [x] Features implemented
 - [x] Algorithm explanation
 - [x] Tests realised
 - [x] Difficulties encountered/ how they were overcome
 
-### Part 5: *Costs*
+### Part 4: *Costs*
 - [x] Budget details
 
-### Part 6: *Future improvements*
+### Part 5: *Future improvements*
 - [x] Recommendations for a better solution
 
