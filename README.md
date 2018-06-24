@@ -35,9 +35,7 @@ It is organised as follows:
 - [x] Tests realised
 - [x] Difficulties encountered/ how they were overcome
 
-### Part 4: *Costs*
+### Part 4: *Conclusion*
 - [x] Budget details
-
-### Part 5: *Future improvements*
-- [x] Recommendations for a better solution
+- [x] Future improvements
 
