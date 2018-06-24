@@ -1,4 +1,4 @@
-# Design History File 3rd Year Group Project 2017/2018 - Imperial
+# Design History File 3rd Year Group Project 2017/2018 - Imperial College London
 
 ## Group 1: ARM After Market ADAS 
 
