@@ -9,7 +9,6 @@ It is organised as follows:
 - [x] Overall presentation (team leader,...)
 - [x] Motivations: security and commercial potential
 - [x] Milestones
-- [x] Gantt Charts...
 
 ### Part 2: *What is drowsiness and how can it be detected?*
 - [x] Research to better tackle the problem and broaden our list of possible solutions
