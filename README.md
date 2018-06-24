@@ -38,4 +38,6 @@ It is organised as follows:
 ### Part 4: *Conclusion*
 - [x] Budget details
 - [x] Future improvements
+- [x] Ethical consequences
+- [x] Sustainability
 
