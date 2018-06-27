@@ -4,7 +4,7 @@
 
 ### Team Members:
 - Valentin Gourmet
-- Un Kei Long
+- Un Kei Leong
 - Zhengyu Wu
 - Kexin Li
 - Wenjia Luo
@@ -42,3 +42,7 @@ It is organised as follows:
 - [x] Ethical consequences
 - [x] Sustainability
 
+The "BLE APP" folder contains the code created with Swift to build the iOS application.
+The "Raspberry Case" folder contains the stl files used for 3D printing the case.
+The "Finalcode.py" is the Python code used in the final prototype.
+The "Leaflet" and "Poster" are the two other deliverables that were made for the project commercial presentation.
