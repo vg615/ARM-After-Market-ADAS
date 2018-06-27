@@ -42,6 +42,7 @@ It is organised as follows:
 - [x] Future improvements
 - [x] Ethical consequences
 - [x] Sustainability
+- [x] Meeting Records
 
 The "BLE APP" folder contains the code created with Swift to build the iOS application.
 The "Raspberry Case" folder contains the stl files used for 3D printing the case.
