@@ -29,11 +29,12 @@ It is organised as follows:
 - [x] Splitting the tasks
 
 ### Part 3: *Solution*
-- [x] Components used
 - [x] Features implemented
 - [x] Algorithm explanation
+- [x] Components used
 - [x] Tests realised
 - [x] Difficulties encountered/ how they were overcome
+- [x] User Manual
 
 ### Part 4: *Conclusion*
 - [x] Meeting records
